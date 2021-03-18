@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">bnwgc4_konya_janos_andras</string>
+    <string name="add_element">Hozzáadás</string>
+    <string name="delete_element">Kész elemek törlése</string>
+</resources>
